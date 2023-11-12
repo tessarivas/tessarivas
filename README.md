@@ -16,7 +16,7 @@
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-white?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=AA00FF)
 ![Static Badge](https://img.shields.io/badge/PYTHON-white?style=for-the-badge&logo=python&logoColor=white&labelColor=0036FF)
 
-### ⚙️ &nbsp;GitHub Analytics
+### GitHub:
 
 <p align="center">
 <a href="https://github.com/tessarivas">
