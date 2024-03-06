@@ -1,15 +1,14 @@
 <div align="center">
-<h1 align="center">Hola, soy Tessa👋💜</h1>
+<h1 align="center">Hola, soy Tessa🌸</h1>
 </div>
 <img src="https://i.imgur.com/ZYkSrGP.png">
 
 ![GitHub followers](https://img.shields.io/github/followers/tessarivas?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=B92DFF&labelColor=black&color=D98CFF)
 
 ### Sobre mi:
-- 🌈 Futura Ing.Software y Tecnologias Emergentes
-- 🌱 Aprendiendo C, C++, Python, OpenCV...
-- 💌 Fun fact: Tecleo como señora, solo uso dos dedos
-- 🎨 Me gusta el arte y el diseño
+- 💋 Soon: Ing.Software y Tecnologias Emergentes
+- 💌 Learning: C, C++, Python, OpenCV...
+- 🎨 Likes: Art, Desing, Crafts...
 
 ### Lenguajes:
 ![Static Badge](https://img.shields.io/badge/C-white?style=for-the-badge&logo=c&logoColor=white&labelColor=FF00AA)
