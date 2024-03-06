@@ -6,9 +6,9 @@
 ![GitHub followers](https://img.shields.io/github/followers/tessarivas?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=B92DFF&labelColor=black&color=D98CFF)
 
 ### About me:
-- 💋 Soon: Ing.Software y Tecnologias Emergentes
-- 💌 Learning: C, C++, Python, OpenCV...
-- 🎨 Likes: Art, Desing, Crafts...
+- 💋 Soon: Ing. en Software y Tecnologías Emergentes
+- 💌 Learning: C, C++, Python, OpenCV, etc.
+- 🎨 Likes: Art, Desing, Crafts, etc.
 
 ### Learning:
 ![Static Badge](https://img.shields.io/badge/C-white?style=for-the-badge&logo=c&logoColor=white&labelColor=FF00AA)
