@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Tessa🌸</h1>
 </div>
-<img src="https://i.imgur.com/ZYkSrGP.png">
+<img src="https://i.imgur.com/3ZoPhqP.png">
 
 ![GitHub followers](https://img.shields.io/github/followers/tessarivas?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=B92DFF&labelColor=black&color=D98CFF)
 
