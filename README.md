@@ -1,9 +1,7 @@
 <div align="center">
-<h1 align="center">Hi, it´s Tessa🌸</h1>
+  <h1 align="center">Hi, it´s Tessa🌸</h1>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW90dHZtcWg5ZG5hbmpsZWFxYjQycXhsbGtmYm04b2dtOGVlZ25zaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2kJLQkiCIzY0hntmNr/giphy.gif" alt="Tessa's GIF" width="800">
 </div>
-<img src="https://i.imgur.com/3ZoPhqP.png" alt="Tessa Image">
-
-![GitHub followers](https://img.shields.io/github/followers/tessarivas?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=B92DFF&labelColor=black&color=D98CFF)
 
 ### About me:
 - 💋 Soon: Ing. en Software y Tecnologías Emergentes
