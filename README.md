@@ -5,7 +5,7 @@
 
 ### About me:
 - 💋 Soon: Ing. en Software y Tecnologías Emergentes
-- 💌 Learning: C, C++, Python, OpenCV, etc.
+- 💌 Learning: Javascript, React, Node, Docker, SQL...
 - 🎨 Likes: Art, Desing, Crafts, etc.
 
 ### Learning:
