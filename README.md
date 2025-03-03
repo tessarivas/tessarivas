@@ -1,23 +1,37 @@
 <div align="center">
-  <h1 align="center">Hi, it´s Tessa🌸</h1>
+  <h1 align="center">Hi, I'm Tessa! 🌸</h1>
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW90dHZtcWg5ZG5hbmpsZWFxYjQycXhsbGtmYm04b2dtOGVlZ25zaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2kJLQkiCIzY0hntmNr/giphy.gif" alt="Tessa's GIF" width="800">
 </div>
 
-### About me:
-- 💋 Soon: Ing. en Software y Tecnologías Emergentes
-- 💌 Learning: Javascript, React, Node, Docker, SQL...
-- 🎨 Likes: Art, Desing, Crafts, etc.
+---
 
-### Learning:
-![Static Badge](https://img.shields.io/badge/C-white?style=for-the-badge&logo=c&logoColor=white&labelColor=FF00AA)
-![Static Badge](https://img.shields.io/badge/C%2B%2B-white?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=AA00FF)
-![Static Badge](https://img.shields.io/badge/PYTHON-white?style=for-the-badge&logo=python&logoColor=white&labelColor=0036FF)
+## 👩🏻‍💻 About Me:
+- 🎓 **Soon:** Software & Emerging Technologies Engineer.  
+- 💡 **Learning:** JavaScript, React, Node.js, Docker, SQL...  
+- 🎨 **Interests:** Art, Design, Crafts & Creativity.  
+- 🚀 **Currently Working On:** Front-end projects & UI/UX.  
 
-### GitHub:
+---
+
+## 🚀 GitHub Stats:
 
 <p align="center">
 <a href="https://github.com/tessarivas">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tessarivas&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tessarivas&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tessarivas&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tessarivas&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+</p>
+
+---
+
+## 💡 Featured Projects:
+- 👚 **[Estilist](#)** → A web app for style recommendations.  
+
+---
+
+## 💌 Let's Connect:
+<p align="center">
+  <a href="https://www.linkedin.com/in/teresa-rivas-gómez-072458294/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:rivas.teresa@hotmail.com"><img src="https://img.shields.io/badge/Mail-e322d3?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/tessarivas"><img src="https://img.shields.io/badge/GitHub-711fcf?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
