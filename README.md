@@ -1,15 +1,14 @@
 <div align="center">
-  <h1 align="center">Hi, I'm Tessa! 🌸</h1>
+  <h1 align="center">Hi, I'm Teresa! 🌸</h1>
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW90dHZtcWg5ZG5hbmpsZWFxYjQycXhsbGtmYm04b2dtOGVlZ25zaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2kJLQkiCIzY0hntmNr/giphy.gif" alt="Tessa's GIF" width="800">
 </div>
 
 ---
 
 ## 👩🏻‍💻 About Me:
-- 🎓 **Soon:** Software & Emerging Technologies Engineer.  
-- 💡 **Learning:** JavaScript, React, Node.js, Docker, SQL...  
-- 🎨 **Interests:** Art, Design, Crafts & Creativity.  
-- 🚀 **Currently Working On:** Front-end projects & UI/UX.  
+- 🎓 Software & Emerging Technologies Engineer 
+- 🎨 **Interests:** Design, Product Design, Design Engineer 
+- 🚀 **Currently Working At:** Microsoft as a Product Design Intern
 
 ---
 
