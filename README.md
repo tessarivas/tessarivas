@@ -12,16 +12,6 @@
 
 ---
 
-## 🚀 GitHub Stats:
-
-<p align="left">
-<a href="https://github.com/tessarivas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tessarivas&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
----
-
 ## 💌 Let's Connect:
 <p align="left">
   <a href="https://www.linkedin.com/in/teresa-rivas-gómez-072458294/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
